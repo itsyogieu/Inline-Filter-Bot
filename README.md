@@ -38,7 +38,8 @@ A Telegram Bot for filter in Inline
 
 ### Installation
 #### Deploy on Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)</br>
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/itsyogieu/Inline-Filter-Bot)
+
 
 #### Deploy in your VPS
 ````bash
